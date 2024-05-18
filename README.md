@@ -1,0 +1,2 @@
+# StockSelector
+Group Project Repository
